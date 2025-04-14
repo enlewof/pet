@@ -53,7 +53,7 @@ You can use variables (`<param>` or `<param=default_value>` ) in snippets.
   - [Auto Sync](#auto-sync)
 - [Installation](#installation)
   - [Binary](#binary)
-  - [macOS / Homebrew](#macos-homebrew)
+  - [macOS / Homebrew](#macos--homebrew)
   - [RedHat, CentOS](#redhat-centos)
   - [Debian, Ubuntu](#debian-ubuntu)
   - [Archlinux](#archlinux)
