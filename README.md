@@ -53,7 +53,7 @@ You can use variables (`<param>` or `<param=default_value>` ) in snippets.
   - [Auto Sync](#auto-sync)
 - [Installation](#installation)
   - [Binary](#binary)
-  - [Mac OS X / Homebrew](#mac-os-x--homebrew)
+  - [macOS / Homebrew](#macos--homebrew)
   - [RedHat, CentOS](#redhat-centos)
   - [Debian, Ubuntu](#debian-ubuntu)
   - [Archlinux](#archlinux)
@@ -177,7 +177,7 @@ https://github.com/otms61/fish-pet
 
 
 ## Copy snippets to clipboard
-By using `pbcopy` on OS X, you can copy snippets to clipboard.
+By using `pbcopy` on macOS, you can copy snippets to clipboard.
 
 <img src="doc/pet06.gif" width="700">
 
@@ -491,10 +491,10 @@ After you install Pet, it's HIGHLY recommended to install the shortcuts mentione
 ## Binary
 Go to [the releases page](https://github.com/knqyf263/pet/releases), find the version you want, and download the zip file. Unpack the zip file, and put the binary to somewhere you want (on UNIX-y systems, /usr/local/bin or the like). Make sure it has execution bits turned on. 
 
-## Mac OS X / Homebrew
+## macOS / Homebrew
 
 Install [selector command](#Installation) first.
-You can use homebrew on OS X.
+You can use homebrew on macOS.
 ```
 brew install knqyf263/pet/pet
 ```
